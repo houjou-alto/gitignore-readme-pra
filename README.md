@@ -13,15 +13,21 @@ Python版とJava版があります。
 
 ### Python版：janken.py
 1. ターミナル(またはコマンドプロンプト)でフォルダに移動
-1. 以下を実行
-`python janken.py`
+1. 以下を実行  
+```
+python janken.py
+```
 
 ### Java版：janken.java
 1. ターミナル(またはコマンドプロンプト)でフォルダに移動
-1. コンパイル
-`javac Janken.java`
-1. 実行
-`java Janken`
+1. コンパイル  
+```
+javac Janken.java
+```
+1. 実行  
+```
+java Janken
+```
 
 ## 遊び方
 1. プログラムを実行すると、手の選択肢が表示されます。
